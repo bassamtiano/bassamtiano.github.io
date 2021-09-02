@@ -1,7 +1,7 @@
 .sidebar {
   background: #F3F4F7;
   overflow-y: hidden;
-  height: calc(100vh - 64px);
+  height: calc(100vh - 65px);
   -webkit-transition: width 1s;
   transition: width 1s;
   float: left;
@@ -24,7 +24,6 @@
   padding-right: 40px;
 }
 
-/*  */
 .sidebar ol li {
   padding: 5px;
 }
@@ -60,7 +59,7 @@
 
 .main-content {
   float: left;
-  height: calc(100vh - 64px);
+  height: calc(100vh - 65px);
 }
 
 .page-tree {

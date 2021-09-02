@@ -1,7 +1,7 @@
 .sidebar {
   background: #F3F4F7;
   overflow-y: hidden;
-  height: calc(100vh - 61px);
+  height: calc(100vh - 64px);
   -webkit-transition: width 1s;
   transition: width 1s;
   float: left;
@@ -60,7 +60,7 @@
 
 .main-content {
   float: left;
-  height: calc(100vh - 61px);
+  height: calc(100vh - 64px);
 }
 
 .page-tree {
@@ -85,7 +85,7 @@
   padding-right: 40px;
   padding-top: 20px;
   padding-bottom: 20px;
-  height: calc(100vh - 100px);
+  height: calc(100vh - 103px);
   float: left;
   overflow-y: auto;
 }

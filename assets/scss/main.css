@@ -85,7 +85,7 @@
   padding-right: 40px;
   padding-top: 20px;
   padding-bottom: 20px;
-  height: calc(100vh - 103px);
+  height: calc(100vh - 110px);
   float: left;
   overflow-y: auto;
 }

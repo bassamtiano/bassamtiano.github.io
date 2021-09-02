@@ -1,0 +1,23 @@
+.sidebar {
+    padding: 0;
+    background:#DEE2E6;
+
+    overflow-y: hidden;
+    height: 100vh;
+}
+
+.sidebar ol {
+    // padding: 0;
+}
+
+.sidebar ol li a {
+    background:green;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    // float:left;
+}
+
+.slide ol li a:hover {
+    background:blue;
+}

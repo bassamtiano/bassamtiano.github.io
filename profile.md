@@ -4,10 +4,10 @@ title: "Researcher | Academic"
 contact:
   email: "bassamtiano@gmail.com"
   github: "https://github.com/bassamtiano"
-  scholar: "https://scholar.google.com"
+  scholar: "https://scholar.google.com/citations?user=TMauiIgAAAAJ&hl=en&oi=ao"
+  linkedin: "https://linkedin.com/in/bassamtiano"
   twitter: "https://twitter.com/bassamtiano"
-  linkedin: "https://linkedin.com/in/yourusername"
-  bluesky: "https://bsky.app/profile/yourusername.bsky.social"
+  bluesky: "https://bsky.app/profile/bassamtiano.bsky.social"
   website: "https://yourwebsite.com"
 about: "Natural Language Processing, Machine Learning, and Artificial Intelligence"
 education:

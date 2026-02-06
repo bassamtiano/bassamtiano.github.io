@@ -1,0 +1,87 @@
+---
+name: "Bassamtiano Renaufalgi Irnawan"
+title: "Researcher | Academic"
+contact:
+  email: "bassamtiano@gmail.com"
+  github: "https://github.com/bassamtiano"
+  scholar: "https://scholar.google.com"
+  twitter: "https://twitter.com/bassamtiano"
+  linkedin: "https://linkedin.com/in/yourusername"
+  bluesky: "https://bsky.app/profile/yourusername.bsky.social"
+  website: "https://yourwebsite.com"
+about: "Natural Language Processing, Machine Learning, and Artificial Intelligence"
+education:
+  - degree: "Ph.D. in Computer Science"
+    institution: "University of Yamanashi"
+    location: "Kofu, Yamanashi, Japan"
+    year: "2023 - 2026"
+    thesis: "Thesis Title (Optional)"
+    supervisor: "Prof. Fukumoto Fumiyo and Prof. Suzuki Yoshimi"
+  - degree: "M.S. in Computer Science"
+    institution: "University of Yamanashi"
+    location: "Kofu, Yamanashi, Japan"
+    year: "2019 - 2021"
+    thesis: "Thesis Title (Optional)"
+    supervisor: "Prof. Fukumoto Fumiyo"
+  - degree: "B.S. in Computer Science"
+    institution: "Politeknik Negeri Jakarta (Jakarta State Polytechnic)"
+    location: "Depok, West Java, Indonesia"
+    year: "2011 - 2015"
+experience:
+  - position: "Research Assistant"
+    institution: "University of Yamanashi"
+    location: "Kofu, Yamanashi, Japan"
+    year: "2020 - 2024"
+    description: "Developed retrieval-augmented generation frameworks with Vector Embedding Database (FAISS & ChromaDB) and Large Language Models (LLMs) for Fake News Fact-Checking Evidence Database."
+  - position: "Research Assistant"
+    institution: "University of Yamanashi"
+    location: "Kofu, Yamanashi, Japan"
+    year: "2024 - Present"
+    description: "Brief description of your role and responsibilities."
+papers:
+  - title: "Example Research Paper Title"
+    authors: "Your Name, Co-Author 1, Co-Author 2"
+    venue: "Conference/Journal Name"
+    year: 2024
+    links:
+      pdf: "https://example.com/paper.pdf"
+      arxiv: "https://arxiv.org/abs/xxxx.xxxxx"
+      code: "https://github.com/yourusername/project"
+      website: "https://example.com/project"
+  - title: "Another Research Paper"
+    authors: "Your Name, Co-Author"
+    venue: "Journal Name"
+    year: 2023
+    links:
+      pdf: "https://example.com/paper2.pdf"
+      arxiv: "https://arxiv.org/abs/xxxx.xxxxx"
+awards:
+  - title: "Best Paper Award"
+    organization: "Conference Name"
+    year: 2024
+    description: "Optional description"
+  - title: "Japanese Government (MEXT) Scholarship"
+    organization: "University of Yamanashi"
+    year: 2020
+  - title: "JASSO Scholarship"
+    organization: "University of Yamanashi"
+    year: 2020
+teaching:
+  - course: "Operating System"
+    role: "Teaching Assistant"
+    institution: "University of Yamnashi"
+    year: "Fall 2019"
+    supervisor: "Prof. Jiyi Li"
+    description: "Help students with the course content, checking assignments, and exams."
+  - course: "Data Structures and Algorithms"
+    role: "Instructor"
+    institution: "University Name"
+    year: "Spring 2022"
+service:
+  - role: "Program Committee Member"
+    organization: "Conference Name"
+    year: "2024"
+  - role: "Reviewer"
+    organization: "Journal Name"
+    year: "2023 - Present"
+---
